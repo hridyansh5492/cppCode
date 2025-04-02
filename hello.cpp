@@ -9,4 +9,4 @@ int main()
 }
 
 //endl flushes output buffer but \n doesn't 
-//comment are same as c
+//comment are same as in C
